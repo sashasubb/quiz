@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="start">START</string>
+    <string name="best_score_text">BEST %s/%s</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
+    <string name="result_text">YOUR RESULT:</string>
+    <string name="start_again">START AGAIN</string>
+    <string name="result">%s OF %s</string>
+    <string name="next">NEXT</string>
+
+    <string name="question_count">%s/%s</string>
+    <string name="retry">CLICK TO ANSWER</string>
+</resources>
